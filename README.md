@@ -23,12 +23,12 @@
 </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tinesra&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tinesra&theme=monokai&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tinesra&theme=monokai)
+![](https://github-readme-stats.vercel.app/api?username=morph-arch&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=morph-arch&theme=monokai&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morph-arch&theme=monokai)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tinesra&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=morph-arch&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---
 Tinesra/Tinesra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
